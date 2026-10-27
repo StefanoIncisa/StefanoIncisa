@@ -1,6 +1,6 @@
 ## Hi, I'm Stefano 👋
 
-Software developer based in London. I trained at [Le Wagon](https://www.lewagon.com)'s Web Development bootcamp and I build full-stack web apps with Ruby on Rails and desktop tools in Python, with a growing focus on AI and LLM integrations.
+Software developer based in London. I trained at [Le Wagon](https://www.lewagon.com)'s AI Software Development bootcamp and I build full-stack web apps with Ruby on Rails and desktop tools in Python, with a focus on products powered by LLMs.
 
 Before code I studied Business and Management at Oxford Brookes University and gained experience in wealth management and investment banking training, so I like building products where data, money and users meet.
 
@@ -25,13 +25,15 @@ Before code I studied Business and Management at Oxford Brookes University and g
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
 
-### 🚀 Featured project
+### 🚀 Featured projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Market Tracker**](https://github.com/StefanoIncisa/market-tracker) | Desktop app for live market prices, portfolio P&L, price alerts, news and an AI analyst | Python, SQLAlchemy, customtkinter, Claude API |
+| [**TermsAI**](https://github.com/ThibMarti/termsai) · [live](https://termsai.eu) | Chrome extension that turns Terms & Conditions and privacy policies into plain-language summaries. Le Wagon capstone, team of 4 | Rails 8, PostgreSQL, GPT-4o, Stripe, Chrome extension, Heroku |
+| [**MacroChef**](https://github.com/ThibMarti/MacroChef) | Conversational AI meal planner: set your macros, get a plan, refine it by chatting. Team of 4 | Rails 8, PostgreSQL, GPT-4o, Hotwire, Bootstrap |
+| [**Market Tracker**](https://github.com/StefanoIncisa/market-tracker) | Desktop app for live market prices, portfolio P&L, price alerts, news and an AI analyst. Personal project | Python, SQLAlchemy, customtkinter, Claude API |
 
-### 🎓 Le Wagon bootcamp work
+### 🎓 Le Wagon bootcamp exercises
 
 | Project | What I practised |
 | --- | --- |
